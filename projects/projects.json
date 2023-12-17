@@ -1,0 +1,39 @@
+[
+  
+
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Durgesh0088/Durgesh-Portfolio"
+    }
+  },
+
+  {
+    "name": "Customer Segmentation Analysis",
+    "desc": "Dividing a customer base into groups of individuals that have similar characteristics relevant to marketing, such as age, gender, interests and spending habits!",
+    "image": "customer",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Durgesh0088/Customer-segmentation-analysis.git"
+    }
+  },
+
+  {
+    "name": "Spam Mail Prediction",
+    "desc": "Spam mail prediction using machine learning is a common application of text classification in which an algorithm is trained to classify emails as either spam or not spam (ham). !",
+    "image": "email",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Durgesh0088/Spam-Mail-Prediction-Using-Naive-Bayes-Algorithm.git"
+    }
+  }
+ 
+  
+  ]
